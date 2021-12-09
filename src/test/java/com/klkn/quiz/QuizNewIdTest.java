@@ -23,6 +23,9 @@ public class QuizNewIdTest {
     @Test
     public void newId(){
 
+
+
+
 //        Assert.assertEquals("baby","baby");
         Assert.assertEquals("bat.y.abcdefghi",solution("...!@BaT#*..y.abcdefghijklm"));
         Assert.assertEquals("z--",solution("z-+.^."));
